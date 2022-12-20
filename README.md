@@ -33,3 +33,4 @@ v) Se debe además crear un MENÚ que permita acceder a las opciones anteriores,
   Cambios con la version del Taller original:
   -Se creó un archivo .csv para visualizar los terremotos
   -Se creó un menú que permite moverse entre lo pedido o las opciones que existen
+  -Para ver mejor las Guis, se usó la librería de Jform
